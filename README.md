@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwaroopSPradhan
 - 👀 I like playing around with the setup files of my system and discover new things and enjoy customising the UI using rainmeter and etc. :)
-- 🌱 I’m currently learning MPI and High Performance Computing
+- 🌱 I’m currently learning MPI and High Performance Computing, NeuroScience, Nonlineaer System, and AI. 
 - 📫Reach me@.... swaroopspradhan.c2@gmail.com
 
 <!---
